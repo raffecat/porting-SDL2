@@ -1,6 +1,6 @@
 #include "platform.h"
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 
 #include <stdlib.h>
 #include <unistd.h>
